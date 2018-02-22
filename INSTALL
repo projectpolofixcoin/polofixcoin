@@ -1,0 +1,9 @@
+Building Polofixcoin
+
+See doc/readme-qt.rst for instructions on building Polofixcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Polofixcoin.
+
+See doc/build-*.txt for instructions on building polofixcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Polofixcoin.
